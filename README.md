@@ -5,5 +5,6 @@ Sends LoRa messages to the Hub to create an occupancy sensor when the mailbox do
 Powers up, sends the messages and pulls it's own power off.
 
 # Features:
-- Latching Circuit: https://randomnerdtutorials.com/latching-power-switch-circuit-auto-power-off-circuit-esp32-esp8266-arduino/
- 0 power consuption when mailbox door is closed
+- Latching Circuit: 
+https://randomnerdtutorials.com/latching-power-switch-circuit-auto-power-off-circuit-esp32-esp8266-arduino/
+0 power consuption when mailbox door is closed
