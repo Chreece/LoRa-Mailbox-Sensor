@@ -7,8 +7,6 @@
 
 # LoRa-Mailbox-Sensor
 
-💙 **Enjoying this hobby project? [Send a voluntary thank-you via Ko-fi](https://ko-fi.com/chreece).**
-
 For [LoRaHub](https://github.com/Chreece/LoRaHub)
 
 Sends LoRa messages to the Hub to create an occupancy sensor when the mailbox door opens (switch or reed-switch triggered), the battery percentage for LiPo 3.7V (approximation) and a button to reset the occupancy sensor (after getting the mail).
